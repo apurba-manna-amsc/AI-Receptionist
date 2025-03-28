@@ -37,8 +37,8 @@ An advanced voice-interactive application leveraging cutting-edge technologies:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/ai-receptionist.git
-cd ai-receptionist
+git clone https://github.com/apurba-manna-amsc/AI-Receptionist
+cd AI-Receptionist
 ```
 
 ### 2. Create Virtual Environment
